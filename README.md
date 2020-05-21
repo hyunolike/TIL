@@ -22,7 +22,7 @@
 #### Spring
 - [Spring 기초](#)
 - [Spring 프로젝트](#)
-### JavaScript
+#### JavaScript
 - [JavaScript 기초](/JavaScript/JavaScript_Basic.md)
 #### 대학교 전공수업
 - [JSP/Servlet](/University/jsp_servlet.md)
