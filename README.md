@@ -1,6 +1,6 @@
 # Today I Learned 🤗
 
-[![블로그 방문하기](https://img.shields.io/badge/Blog-hyunolike.github.io-green?style=for-the-badge)](https://hyunolike.github.io/)
+[![블로그 방문하기](https://img.shields.io/badge/Blog-hyunolike.github.io-blue?style=for-the-badge)](https://hyunolike.github.io/)
 
 오늘 새로 배운 것을 다음의 규칙으로 commit 한다.
 
@@ -15,8 +15,10 @@
 - reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용한다.
 
 ## 분류
-`현재 초기버전의 TIL입니다.`
 
+#### 대학교 전공수업
+- [인공지능](/University/ai.md) `마지막 대학수업😋`
+- [JSP/Servlet](/University/jsp_servlet.md)
 #### Java
 - [java 기초 공부 기록장](/Java/Java_Basic.md)
 #### Spring
@@ -24,8 +26,6 @@
 - [Spring 프로젝트](#)
 #### JavaScript
 - [JavaScript 기초](/JavaScript/JavaScript_Basic.md)
-#### 대학교 전공수업
-- [JSP/Servlet](/University/jsp_servlet.md)
 #### React
 - [Redux](#)
 
