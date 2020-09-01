@@ -1,4 +1,4 @@
-# 인공지능😛
+# 인공지능👨‍🎓
 `마지막 대학교 수업` 
 
 ![업데이트일시](http://img.shields.io/badge/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%F0%9F%8E%89-2020.09.01-green?style=for-the-badge&logo=appveyor)
