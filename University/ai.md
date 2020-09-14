@@ -83,6 +83,59 @@ __전체한정자(Universal quantifier)__ 와 __존재한정자(Existential quan
 ### 기계가 생각할수 있을까?
 - "생각한다"의 정의는? 직접적인 정의는 어려우므로, __튜링 테스트__ 로 설명
 
+### 인공지능의 접근 방법
+- 기호적(Symbolic) 접근 방법
+    - `텍스트 데이터` 기반으로 __추론__ 수행 
+    - 하향식 설계 방법
+    - 명제논리, 술어논리, 지식기반 시스템(전문가 시스템)...
+- 비기호적(Subsymbolic) 접근 방법
+    - `수치(신호) 데이터` 기반으로 __기계학습__ 수행
+    - 상향식 설계 방법
+    - 자극반응 에이전트, 신경망 회로, 딥러닝...
+
+### 인공지능의 역사
+- 인공지능을 향항 첫걸음(~1950)
+    - 아리스토텔레스의 삼단논법
+    - 라이프니츠의 보편적인 대수학
+    - Boole의 명제논리
+    - Frege의 술어 논리 
+    - Turing의 기계에 대한 지능 테스트
+- AI에 대한 큰 기대(~1960) 
+    - McCarthy에 의해 최초로 "인공지능" 이라는 용어가 소개
+    - Logic Theorist, GPS(General Problem Solver) 등 간단한 추론 프로그램 소개
+- 현실의 직면(~1970 초반)
+    - 장난감 수준의 문제만이 해결 가능함을 파악
+    - 미/영 정부의 프로젝트 지원 중단
+- 성공에 대한 기대(~1990)
+    - 전문가시스템의 성공
+    - 방대한 지식을 추론에 이용할 겨웅 현실 시계에 유용
+- 실질적인 인공지능 구현(2000~)
+    - 딥러닝의 성공
+    - 음성인식, 자율주행, 쇼핑 등 다양한 분야에서 적용
+    
+## Stimulus-Response-Agent (자극 반응 에이전트)
+### 에이전트
+- Agent: 인공지능 문제를 풀기 위해 설계된 __자율적인(Autonomous)__ 주체
+    - Stateless: `메모리 없이` 자극에 즉각적으로 반응하는 에이전트(SR, Stimulus-response agent)
+    - Stateful: `메모리를 이용해` 자극에 대한 학습 내용을 바탕으로 행동하는 에이전트(Planning agent)
+
+### 에이전트 - 이성적(Rationality) 란
+- Rationality is not the same as perfection
+- On the other hand, omniscience always makes the right decision among all possible situation
+- Rationally maximizes expected performance based on the percept sequence to date, while perfection (omniscience) maximizes actual performance
+
+### 자극반응 에이전트(SR agent)
+- 내부 상태가 없으며, 환경의 자극에 간단한 반응을 보이는 기계
+
+- 지각과 행동 구성 요소
+
+- 특징벡터(Featured vector) 정의 : 메모리 적게 차지하도록~~ 행동함수의 복잡도 감소
+- 행동함수(Action plan) 정의 : 특징 벡터 값에 따라~~
+
+### 부울대수(Boolean Algebra)
+- SR에이전트의 __특징벡터와 행동함수를 표현하는데 적합__
+
+
 
 
 
