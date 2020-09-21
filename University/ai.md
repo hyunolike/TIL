@@ -1,7 +1,18 @@
 # 인공지능👨‍🎓
 `마지막 대학교 수업` 
 
-![업데이트일시](http://img.shields.io/badge/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%F0%9F%8E%89-2020.09.07-green?style=for-the-badge&logo=appveyor)
+![업데이트일시](http://img.shields.io/badge/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%F0%9F%8E%89-2020.09.21-green?style=for-the-badge&logo=appveyor)
+## 책의 구성
+- 반응형 기계(2장 ~ 6장) `🔥Machine learning`
+    - 자극반응 에이전트, 신경망 회로,...
+    - `비기호적(Subsymbolic) 접근 방법 : 수치 데이터`
+- 상태공간 탐색(7장 ~ 12장) `Search`
+    - 계획하는 에이전트, 무정보 탐색, 휴리스틱 탐색, ...
+    - `😋인공지능 문제의 특징 제시`
+- 지식의 표현과 추론(13장 ~ 20장) `Inference`
+    - 명제논리, 술어논리, 지식기반 시스템, ...
+    - `기호적(Symbolic) 접근 방법 : 텍스트 데이터`
+
 ## 4차 산업혁명(인공지능) 출현 이유
 1. __SNS__ 출현(개인화 이유) 
 2. 고객들의 다양한 요구
