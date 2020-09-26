@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="132b12de-57fd-4ae9-817f-eaf5ea7cf774" name="Default Changelist" comment="">
+    <list default="true" id="132b12de-57fd-4ae9-817f-eaf5ea7cf774" name="Default Changelist" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/University/ai.md" beforeDir="false" afterPath="$PROJECT_DIR$/University/ai.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Java_Basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Java_Basic.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../blog/hyunolike.github.io" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,8 +60,18 @@
       <workItem from="1600066720731" duration="1080000" />
       <workItem from="1600302398038" duration="11000" />
       <workItem from="1600391604270" duration="9000" />
-      <workItem from="1600671885748" duration="996000" />
+      <workItem from="1600671885748" duration="1028000" />
+      <workItem from="1600785387384" duration="15000" />
+      <workItem from="1601131982010" duration="384000" />
     </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1600675197434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600675197434</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,10 +89,18 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1600672166532">
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1600785401226">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600672166532" />
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600785401226" />
+    <state x="360" y="170" width="816" height="517" key="Vcs.Push.Dialog.v2" timestamp="1600675204732">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="360" y="170" width="816" height="517" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1600675204732" />
   </component>
 </project>
