@@ -64,12 +64,12 @@ public class 인터페이스명<T> {...}
 
 |타입인자|설명|
 |------|---|
-|<T>|Type|
-|<E>|Element|
-|<K>|Key|
-|<N>|Number|
-|<V>|Value|
-|<R>|Result|
+|T|Type|
+|E|Element|
+|K|Key|
+|N|Number|
+|V|Value|
+|R|Result|
 
 
 

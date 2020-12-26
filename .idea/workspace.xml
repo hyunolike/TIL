@@ -22,7 +22,6 @@
     <list default="true" id="132b12de-57fd-4ae9-817f-eaf5ea7cf774" name="Default Changelist" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/Java_Basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Java_Basic.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <workItem from="1601131982010" duration="638000" />
       <workItem from="1601177292652" duration="12000" />
       <workItem from="1608551025255" duration="55000" />
-      <workItem from="1608989108167" duration="691000" />
+      <workItem from="1608989108167" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1600675197434</created>
@@ -82,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601132377485</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update">
+      <created>1608989819205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608989819205</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,15 +109,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1601177302330">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1601177302330" />
-    <state x="360" y="170" width="816" height="517" key="Vcs.Push.Dialog.v2" timestamp="1601132380578">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="360" y="170" width="816" height="517" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1601132380578" />
   </component>
 </project>
