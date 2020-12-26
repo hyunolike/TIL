@@ -20,19 +20,13 @@
 - [인공지능](/University/ai.md) `마지막 대학수업😋`
 - [JSP/Servlet](/University/jsp_servlet.md)
 #### Java
-- [java 기초 공부 기록장](/Java/Java_Basic.md)
-#### Spring
-- [Spring 기초](#)
-- [Spring 프로젝트](#)
+- [java 문법](/Java/Java_Basic.md)
 #### JavaScript
-- [JavaScript 기초](/JavaScript/JavaScript_Basic.md)
+- [JavaScript 문법](/JavaScript/JavaScript_Basic.md)
 #### React
 - [Redux](#)
 
 ---
-#### 🌞ETC
-- [Notion](/ETC/Notion.md)
-
 #### 🤗세미나
 - [통합 세미나](/Seminar/integrated_seminar.md)
 - [웹 세미나](#)
