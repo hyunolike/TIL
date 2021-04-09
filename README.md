@@ -16,6 +16,10 @@
 
 ## 분류
 
+### VCS
+- [Git Mistakes](VCS/Git.md) 
+- [Git-flow](VCS/Git-flow.md)
+
 #### 대학교 전공수업
 - [인공지능](/University/ai.md) `마지막 대학수업😋`
 - [JSP/Servlet](/University/jsp_servlet.md)
