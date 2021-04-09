@@ -16,7 +16,7 @@
 
 ## 분류
 
-### VCS
+#### VCS
 - [Git Mistakes](VCS/Git.md) 
 - [Git-flow](VCS/Git-flow.md)
 

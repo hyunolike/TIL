@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="132b12de-57fd-4ae9-817f-eaf5ea7cf774" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/VCS/Git-flow.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VCS/Git.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VCS/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="132b12de-57fd-4ae9-817f-eaf5ea7cf774" name="Default Changelist" comment="Add Git&#10;- git mistakes &#10;- git flow" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +66,7 @@
       <workItem from="1609058423616" duration="8000" />
       <workItem from="1614918467302" duration="10000" />
       <workItem from="1617952121569" duration="738000" />
-      <workItem from="1617956390752" duration="1501000" />
+      <workItem from="1617956390752" duration="1560000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1600675197434</created>
@@ -102,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608989903487</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Git&#10;- git mistakes &#10;- git flow">
+      <created>1617957935144</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617957935144</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Add Git&#10;- git mistakes &#10;- git flow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Git&#10;- git mistakes &#10;- git flow" />
   </component>
 </project>
