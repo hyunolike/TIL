@@ -1,7 +1,7 @@
 ## Git-flow
 출처 [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
 
-![](https://nvie.com/img/git-model@2x.png){: width:"300" height:"300"}
+![](https://nvie.com/img/git-model@2x.png)
 ---
 - `master` : 제품 출시하는 브랜치
 - `develop` : 다음 출시 버전 개발 브랜치
