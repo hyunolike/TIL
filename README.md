@@ -25,6 +25,7 @@
 - [JSP/Servlet](/University/jsp_servlet.md)
 #### Java
 - [java 문법](/Java/Java_Basic.md)
+- [Design Pattern](Java/DesignPattern.md)
 #### JavaScript
 - [JavaScript 문법](/JavaScript/JavaScript_Basic.md)
 #### React
