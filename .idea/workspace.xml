@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="132b12de-57fd-4ae9-817f-eaf5ea7cf774" name="Default Changelist" comment="Fix">
-      <change afterPath="$PROJECT_DIR$/Java/DesignPattern.md" afterDir="false" />
+    <list default="true" id="132b12de-57fd-4ae9-817f-eaf5ea7cf774" name="Default Changelist" comment="자바&#10;- 디자인패턴 추가">
+      <change afterPath="$PROJECT_DIR$/img/git-flow.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VCS/Git-flow.md" beforeDir="false" afterPath="$PROJECT_DIR$/VCS/Git-flow.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\falle\OneDrive\바탕 화면\깃헙저장소자료\TIL\img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,7 +77,8 @@
       <workItem from="1617952121569" duration="738000" />
       <workItem from="1617956390752" duration="1911000" />
       <workItem from="1618121191232" duration="51000" />
-      <workItem from="1618270791807" duration="1136000" />
+      <workItem from="1618270791807" duration="1166000" />
+      <workItem from="1618284918180" duration="137000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1600675197434</created>
@@ -130,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617958308836</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="자바&#10;- 디자인패턴 추가">
+      <created>1618271950047</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1618271950047</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +165,7 @@
     <MESSAGE value="Update" />
     <MESSAGE value="Add Git&#10;- git mistakes &#10;- git flow" />
     <MESSAGE value="Fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
+    <MESSAGE value="자바&#10;- 디자인패턴 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바&#10;- 디자인패턴 추가" />
   </component>
 </project>
