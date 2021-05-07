@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="132b12de-57fd-4ae9-817f-eaf5ea7cf774" name="Default Changelist" comment="Add git img">
-      <change afterPath="$PROJECT_DIR$/VCS/commit-message.md" afterDir="false" />
+    <list default="true" id="132b12de-57fd-4ae9-817f-eaf5ea7cf774" name="Default Changelist" comment="Add commit-message.md">
+      <change afterPath="$PROJECT_DIR$/db/mariadb.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -80,7 +80,10 @@
       <workItem from="1618270791807" duration="1166000" />
       <workItem from="1618284918180" duration="162000" />
       <workItem from="1618303211973" duration="24000" />
-      <workItem from="1619081053420" duration="1089000" />
+      <workItem from="1619081053420" duration="1242000" />
+      <workItem from="1619095707789" duration="56000" />
+      <workItem from="1619414941282" duration="8000" />
+      <workItem from="1620359317885" duration="888000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1600675197434</created>
@@ -152,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618285069734</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add commit-message.md">
+      <created>1619082293376</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1619082293376</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +186,7 @@
     <MESSAGE value="Fix" />
     <MESSAGE value="자바&#10;- 디자인패턴 추가" />
     <MESSAGE value="Add git img" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add git img" />
+    <MESSAGE value="Add commit-message.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add commit-message.md" />
   </component>
 </project>
